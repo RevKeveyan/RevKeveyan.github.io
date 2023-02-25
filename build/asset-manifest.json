@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9be36202.css",
+    "main.js": "/static/js/main.294e8694.js",
+    "static/media/electr.gif": "/static/media/electr.2a18aff19c9fd1ee04c4.gif",
+    "static/media/mainbg.jpg": "/static/media/mainbg.6af985243fa4d2133a09.jpg",
+    "static/media/tarif1.jpg": "/static/media/tarif1.dd957bcadb93987204b8.jpg",
+    "static/media/va11.jpg": "/static/media/va11.a35478b8b2974cd931e5.jpg",
+    "static/media/tarif3.jpg": "/static/media/tarif3.5fcef0f5ffb092c18516.jpg",
+    "static/media/tarif2.jpg": "/static/media/tarif2.e7d24d1ed106be9b7b3e.jpg",
+    "static/media/slide2.jpg": "/static/media/slide2.2eed6256c3906a7fb705.jpg",
+    "static/media/slide3.JPEG": "/static/media/slide3.127eaef6030fec3bebe4.JPEG",
+    "static/media/slide1.JPEG": "/static/media/slide1.b03b6eb3b0e8320a5dc2.JPEG",
+    "static/media/slide6.JPEG": "/static/media/slide6.8d0836585f1f1183401e.JPEG",
+    "static/media/slide5.JPEG": "/static/media/slide5.49de4d5456b1d2142f9e.JPEG",
+    "static/media/Vrdan.jpg": "/static/media/Vrdan.813977e4a9becd53f965.jpg",
+    "static/media/logo.jpg": "/static/media/logo.87e75cd275b1259182db.jpg",
+    "static/media/24.png": "/static/media/24.652410b5530cf8dec402.png",
+    "static/media/ico2.png": "/static/media/ico2.9c7d0fca8f8e7ce04dd0.png",
+    "static/media/elec.png": "/static/media/elec.2a35a8d64ee2591858d5.png",
+    "static/media/ico4.png": "/static/media/ico4.cd73ecdb5a58f454e822.png",
+    "static/media/sht.jpg": "/static/media/sht.157ab51b52185247f906.jpg",
+    "static/media/ico6.png": "/static/media/ico6.6a7c9dd31ac8a9ffff8e.png",
+    "static/media/ico3.png": "/static/media/ico3.317cfaaf7259b6ef6aa5.png",
+    "static/media/loc.png": "/static/media/loc.084da7f156b6c3f45476.png",
+    "static/media/ico5.png": "/static/media/ico5.15b79cdb162b18b0f872.png",
+    "static/media/ico1.png": "/static/media/ico1.ce052bb29b0661365869.png",
+    "static/media/phone.png": "/static/media/phone.788adb5ad58479e1e384.png",
+    "static/media/star.png": "/static/media/star.d0cbd94e0a4a62fc2bf4.png",
+    "static/media/email.png": "/static/media/email.51b08bcbb5af7a861c31.png",
+    "static/media/logoFooter.png": "/static/media/logoFooter.bbc98eded6c859435e14.png",
+    "index.html": "/index.html",
+    "main.9be36202.css.map": "/static/css/main.9be36202.css.map",
+    "main.294e8694.js.map": "/static/js/main.294e8694.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9be36202.css",
+    "static/js/main.294e8694.js"
+  ]
+}
